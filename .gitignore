@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Class/bin/Debug
+/Class/obj/Debug
+/LaMetric-Slack-Integration/bin
+/LaMetric-Slack-Integration/obj/Debug
+/LaMetric-Tests/obj/Debug
+/LaMetric-Tests/bin/Debug
+/packages
+/Slack-Tests/bin/Debug
+/Slack-Tests/obj/Debug
